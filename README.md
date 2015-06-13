@@ -4,4 +4,4 @@ HeN1 is a combination of
 * [Helium](https://github.com/HeliumProject/Helium) 
 * [ENet](http://enet.bespin.org/)
 
-"He" stands for Helium and eN1 is pronounced ENet ...
+_"He" stands for Helium and eN1 is pronounced ENet ..._
